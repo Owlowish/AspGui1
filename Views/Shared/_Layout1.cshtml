@@ -9,28 +9,30 @@
 <link rel="stylesheet" href="~/css/custom.css" asp-append-version="true" />
 </head>
 
+<div class="header">
+  
+</div>
+
+
 <body>
 
-    <ul>
-        <li><a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Home</a></li>
-        <li><a asp-area="" asp-controller="GuiHome" asp-action="Index">Welcome</a></li>
-    </ul>
+  
+    <div class="topnav">
+        <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Home</a>
+        <a asp-area="" asp-controller="GuiHome" asp-action="Index">Index</a>
+    </div>
+
     
 </body>
 
 
-
-    <head>
-        <link rel="stylesheet" href="~/css/custom.css" /> 
-    </head>
-
-    <body>
+<body>
   
         <div>
             @RenderBody()
         </div>
 
-    </body>
+</body>
 
 
 </html>

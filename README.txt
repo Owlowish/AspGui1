@@ -1,4 +1,4 @@
-- ASP Graphical User Interface -
+# ASP Graphical User Interface 
 
 * GUI developped using .net core and asp.net core MVC. 
 * Intended to be able to be deployed on Linux ARM32 and Window ARM32 devices.

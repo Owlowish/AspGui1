@@ -29,6 +29,6 @@
 * added _layout1.cshtml
 
 
-### contributors
+### contributor
 
 Owlowish

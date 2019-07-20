@@ -31,3 +31,4 @@ c:\Users\yuhan\OneDrive\Bureau\Programmation\ASP.NET core\AspGui1\obj\Debug\netc
 c:\Users\yuhan\OneDrive\Bureau\Programmation\ASP.NET core\AspGui1\obj\Debug\netcoreapp2.1\AspGui1.pdb
 C:\Users\yuhan\OneDrive\Bureau\Programmation\ASP.NET core\AspGui1\obj\Debug\netcoreapp2.1\AspGui1.csproj.CopyComplete
 C:\Users\yuhan\OneDrive\Bureau\Programmation\ASP.NET core\AspGui1\obj\Debug\netcoreapp2.1\Razor\Views\GuiHome\index.g.cshtml.cs
+C:\Users\yuhan\OneDrive\Bureau\Programmation\ASP.NET core\AspGui1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout1.g.cshtml.cs

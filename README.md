@@ -13,22 +13,15 @@
   Microsoft.AspNetCore.App 2.1.6
   Microsoft.NETCore.App 2.1.6 
 
-## version 0.1 (20/07)
+  ## Version 0.2
 
-### Controller
+  ### Changes
 
- * added GuiHomeController.cs
- 
-### View
+  * Custom.css : updated
+  * Layout1.html : updated
+  * added GuiHome index layouts, buttons, background
 
-* added GuiHome -> index.cshtml
+  ## Contributor
 
-### Others
+  Owlowish
 
-* added custom.css
-* added _layout1.cshtml
-
-
-### contributors
-
-Owlowish

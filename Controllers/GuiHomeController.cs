@@ -16,9 +16,9 @@ namespace AspGui1.Controllers
         // 
         // GET: /HelloWorld/Welcome/ 
 
-        public string Welcome()
+        public IActionResult Digicode()
         {
-            return "This is the Welcome action method...";
+            return View();
         }
     }
 }

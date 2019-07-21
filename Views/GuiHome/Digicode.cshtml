@@ -1,0 +1,66 @@
+@{
+    ViewData["Title"] = "Digicode";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+
+
+
+<body>
+
+	<center><input type="text" id="name" name="name" required
+       minlength="4" maxlength="8" size="10"></center>
+	
+	<div id="digipad">
+	  <div class="key" id="b1" onclick="b1()">1</div>
+	  <div class="key"id="b2" onclick="b2()">2</div>
+	  <div class="key" id="b3" onclick="b3()">3</div>
+	  <br/>
+	  <div class="key"id="b4" onclick="b4()">4</div>
+	  <div class="key"id="b5" onclick="b5()">5</div>
+	  <div class="key"id="b6" onclick="b6()">6</div>
+	  <br/>
+	  <div class="key"id="b7" onclick="b7()">7</div>
+	  <div class="key"id="b8" onclick="b8()">8</div>
+	  <div class="key"id="b9" onclick="b9()">9</div>
+	  <br/>
+	  <div class="key"id="b0" onclick="b0()">0</div>
+	</div>
+
+
+
+<script>
+function b0() {
+  document.getElementById("name").value = "";
+}
+function b1() {
+  document.getElementById("name").value = "1";
+}
+function b2() {
+  document.getElementById("name").value = "2";
+}
+function b3() {
+  document.getElementById("name").value = "3";
+}
+function b4() {
+  document.getElementById("name").value = "4";
+}
+function b5() {
+  document.getElementById("name").value = "5";
+}
+function b6() {
+  document.getElementById("name").value = "6";
+}
+function b7() {
+  document.getElementById("name").value = "7";
+}
+function b8() {
+  document.getElementById("name").value = "8";
+}
+function b9() {
+  document.getElementById("name").value = "9";
+}
+</script>
+
+
+</body>

@@ -13,13 +13,12 @@
   Microsoft.AspNetCore.App 2.1.6
   Microsoft.NETCore.App 2.1.6 
 
-  ## Version 0.2
+  ## Version 0.3
 
   ### Changes
 
-  * Custom.css : updated
-  * Layout1.html : updated
-  * added GuiHome index layouts, buttons, background
+  * added Digicode View 
+  * modified HomePage Index
 
   ## Contributor
 

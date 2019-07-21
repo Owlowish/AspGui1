@@ -6,8 +6,31 @@ body {
     background-image: url("../images/fond.png");
     height: 1250px;
     background-size: 100% 100%;
+    
 
   }
+
+  h1 {
+    text-align: center;
+    color: white;
+  }
+
+ 
+  #p1{
+    background-color: rgb(82, 107, 107);
+    color: white;
+    font-size: 30px;
+    padding: 15px;  
+  }
+
+  .fit-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 20px;
+}
+
 
 
 
@@ -90,5 +113,53 @@ body {
     background-color: lightskyblue;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
+  }
+  
+
+  #digipad {
+    width: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .key {
+    display: inline-block;
+    color:lightblue;
+    background-color: rgb(49, 133, 115);
+    padding: 10px 15px 10px 15px;
+    margin: 10px;
+    box-shadow: 0px 0px 5px lightblue;
+    border-radius: 3px;
+  }
+  
+  .key:hover {
+    box-shadow: 0px 0px 5px #00FFFF;
+    color: rgb(253, 253, 253);  
+  }
+  
+  /* When a button is clicked it becomes "active"*/
+  .key:active {
+    box-shadow: 0px 0px 5px #28B6FC;
+    color: #28B6FC;
+  }
+  
+  
+  
+  
+  label {
+      display: block;
+      font: 1rem 'Fira Sans', sans-serif;
+  }
+  
+  input,
+  label {
+      margin: .4rem 0;
+      text-align: center;
+  }
+  
+
+  a:link {
+    text-decoration: none;
   }
   

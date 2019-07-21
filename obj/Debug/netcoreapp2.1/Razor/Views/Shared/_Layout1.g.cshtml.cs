@@ -64,12 +64,12 @@ using AspGui1.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n    \r\n\r\n\r\n<!-- navigation bar -->\r\n\r\n");
             EndContext();
             BeginContext(62, 92, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7c6afe89b5ad4855bad68de8684b957b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb6a33f5e85844b5a7a765b2611976fe", async() => {
                 BeginContext(68, 2, true);
                 WriteLiteral("\r\n");
                 EndContext();
                 BeginContext(70, 75, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "8de0e45410ef4bdf9edd55aa32da2167", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "be564eb9edd540eab8306ce16bc9489e", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -112,12 +112,12 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
             WriteLiteral("\r\n\r\n<div class=\"header\">\r\n  \r\n</div>\r\n\r\n\r\n");
             EndContext();
             BeginContext(196, 240, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97fc1f5ace234b6eb3273c78922126cf", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "182fa78f5b0d47dca13d69e417e2d93c", async() => {
                 BeginContext(202, 42, true);
                 WriteLiteral("\r\n\r\n  \r\n    <div class=\"topnav\">\r\n        ");
                 EndContext();
                 BeginContext(244, 85, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bb48fbc3239e4f58b3d7ba734a6b7511", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "595958ede89d473d88528987c7dd843f", async() => {
                     BeginContext(321, 4, true);
                     WriteLiteral("Home");
                     EndContext();
@@ -144,7 +144,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
                 WriteLiteral("\r\n        ");
                 EndContext();
                 BeginContext(339, 68, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ed897880b24b47bbbf41b5b918366802", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e855201cc19f4e4d8f40c1fa06a2536d", async() => {
                     BeginContext(398, 5, true);
                     WriteLiteral("Index");
                     EndContext();
@@ -185,7 +185,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
             WriteLiteral("\r\n\r\n\r\n");
             EndContext();
             BeginContext(442, 79, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f30c83d474e64ec5b47a710887a622b7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "378ac153904645d7b7eee7e89b675219", async() => {
                 BeginContext(448, 33, true);
                 WriteLiteral("\r\n  \r\n        <div>\r\n            ");
                 EndContext();

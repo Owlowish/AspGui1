@@ -163,3 +163,28 @@ body {
     text-decoration: none;
   }
   
+
+
+  /* Inforamtion CSS */
+
+  .columnInfo {
+    float: left;
+    padding-top: 100px; 
+    
+  }
+  
+  .columnInfo.side {
+    width: 20%;
+  }
+
+  .columnInfo.middle {
+    width: 60%;
+    text-align: center;
+  }
+
+  #p2{
+    background-color: rgb(82, 107, 107);
+    color: white;
+    font-size: 18px;
+    padding: 15px;  
+  }

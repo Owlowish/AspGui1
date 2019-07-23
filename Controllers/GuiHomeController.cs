@@ -20,5 +20,10 @@ namespace AspGui1.Controllers
         {
             return View();
         }
+
+         public IActionResult info()
+        {
+            return View();
+        }
     }
 }

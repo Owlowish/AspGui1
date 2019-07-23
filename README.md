@@ -13,14 +13,13 @@
   Microsoft.AspNetCore.App 2.1.6
   Microsoft.NETCore.App 2.1.6 
 
-  ## Version 0.3
+  ## Version Fichet 0.4
 
   ### Changes
 
-  * added Digicode View 
-  * modified HomePage Index
+  * added Information 
 
   ## Contributor
 
-  Owlowish
+  Owlowish fichet
 
